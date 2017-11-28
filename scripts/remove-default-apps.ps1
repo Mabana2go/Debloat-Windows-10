@@ -86,7 +86,8 @@ $apps = @(
     "D5EA27B7.Duolingo-LearnLanguagesforFree"
     "46928bounde.EclipseManager"
     "ActiproSoftwareLLC.562882FEEB491" # next one is for the Code Writer from Actipro Software LLC
-
+    "A278AB0D.DisneyMagicKingdoms"
+    "WinZipComputing.WinZipUniversal"
 
     # apps which cannot be removed using Remove-AppxPackage
     #"Microsoft.BioEnrollment"
